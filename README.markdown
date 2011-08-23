@@ -1,6 +1,7 @@
 # Ruby on Rails Tutorial: first application This is the first application for [*Ruby on Rails Tutorial*]
+# эта строка добавлена для тестирования
 
-== Welcome to Rails
+== Welcome to Rails "добавлено для тестирования"
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
